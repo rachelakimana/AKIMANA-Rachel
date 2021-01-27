@@ -1,2 +1,1 @@
-# AKIMANA-Rachel
-My profile
+# My profile
