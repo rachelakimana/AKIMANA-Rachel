@@ -11,10 +11,11 @@ library.add(fab, faCheckSquare, faCoffee, faEnvelope, faTelegram)
 
 function App() {
   return (
-    <div className="bg-white flex flex-row h-screen w-screen">
-      <Sidebar/>
-      <Home />
+    <div className="bg-blue-900 h-screen w-screen flex items-center justify-center">
+      <div className="bg-black w-3/4 mx-20 flex items-center justify-end">
+        <Home />
 
+      </div>
     </div>
     
   );
